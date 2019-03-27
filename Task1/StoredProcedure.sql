@@ -1,12 +1,5 @@
-CREATE OR REPLACE FUNCTION public.calculatesumandmediana(
-	)
-    RETURNS TABLE(sumint bigint, medianadouble double precision) 
-    LANGUAGE 'plpgsql'
-
-    COST 100
-    VOLATILE 
-    ROWS 1000
-AS $BODY$
+CREATE OR REPLACE FUNCTION calculatesumandmediana()
+    RETURNS TABLE(sumint bigint, medianadouble double precision) AS $$
 
 BEGIN
 		RETURN QUERY 
@@ -15,7 +8,6 @@ BEGIN
 		FROM note;
 END;
 
-$BODY$;
+$$ LANGUAGE plpgsql;
 
-ALTER FUNCTION public.calculatesumandmediana()
-    OWNER TO postgres;
+SELECT calculatesumandmediana();
