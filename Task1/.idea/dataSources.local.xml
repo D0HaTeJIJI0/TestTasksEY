@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="postgres@localhost" uuid="ba82d75a-ec60-4f1b-9341-155667692fa7">
+      <database-info product="PostgreSQL" version="11.0" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-schemas>postgres:public</introspection-schemas>
+    </data-source>
+    <data-source name="StorePersistenceUnit/OpenJPA" uuid="8dda1876-7683-4e23-a383-11a11236573e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="StorePersistenceUnit/Hibernate" uuid="80a40f19-408d-4219-acb0-ea24ccb53837">
+      <database-info product="PostgreSQL" version="11.0" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>postgres</user-name>
+      <introspection-schemas>postgres:public</introspection-schemas>
+    </data-source>
+    <data-source name="StorePersistenceUnit/EclipseLink" uuid="80ce3011-ae84-4f1f-9367-3c8e3ee52d9f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="StorePersistenceUnit/TopLink" uuid="23cb00fa-5a24-4b39-bd80-6b659fb5b7b5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>

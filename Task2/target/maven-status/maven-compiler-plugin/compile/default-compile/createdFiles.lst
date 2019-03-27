@@ -1,0 +1,14 @@
+com\travnich\account\controller\MainController.class
+com\travnich\account\service\impl\DefaultAccountService.class
+com\travnich\account\repo\GroupAccount.class
+com\travnich\account\repo\AccountRepository.class
+com\travnich\account\config\MvcConfig.class
+com\travnich\account\service\AccountService.class
+com\travnich\account\entity\ClassAccount.class
+com\travnich\account\entity\Account.class
+com\travnich\account\service\dto\AccountDto.class
+com\travnich\account\entity\BaseEntity.class
+com\travnich\account\service\BaseService.class
+com\travnich\account\repo\ClassAccountRepository.class
+com\travnich\account\App.class
+com\travnich\account\entity\GroupAccount.class
