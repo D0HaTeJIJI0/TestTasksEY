@@ -30,7 +30,7 @@
 
 ## Examples in IntelliJ:
 ![ScreenShot](https://github.com/D0HaTeJIJI0/TestTasksEY/blob/master/images/Task1/ImportFile.png)
-![ScreenShot](https://raw.githubusercontent.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/ImportDirectory.png)
+![ScreenShot](https://github.com/D0HaTeJIJI0/TestTasksEY/blob/master/images/Task1//ImportDirectory.png)
 
 ## To execute sql you need to create StoredProcedure with code in Task1/StoredProcedure.sql
 
