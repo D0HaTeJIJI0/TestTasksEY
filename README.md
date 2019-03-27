@@ -10,7 +10,7 @@
     Task1\Task1.exe -g "target_directory"
     
 ## Example of working:
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/GenerateFiles.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/GenerateFiles.png)
 
 ## Command in prompt to combine files:  
 
@@ -21,22 +21,22 @@
     Task1\Task1.exe -c "source_directory" "target_file" ["string_to_exclude"]
     
 ## Examples of working:
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/UniteFiles.png)
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/UniteFilesWithExclusion.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/UniteFiles.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/UniteFilesWithExclusion.png)
 
 ## Programm arguments to import files(doesn't work with jar):  
 
     -i "source_file"|"source_directory"
 
 ## Examples in IntelliJ:
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/ImportFile.png)
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/ImportDirectory.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/ImportFile.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/ImportDirectory.png)
 
 ## To execute sql you need to create StoredProcedure with code in Task1/StoredProcedure.sql
 
 ## Examples pgAdmin:
-![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task1/StoredProcedure.png)
+![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task1/StoredProcedure.png)
 
 2. Task 2
  ## Example of working web-app:
- ![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/images/Task2/FileTable.png)
+ ![alt text](https://github.com/D0HaTeJIJI0/TestTasksEY/tree/master/images/Task2/FileTable.png)
